@@ -3,7 +3,6 @@ import polyline
 
 # Google Maps API 키를 입력하세요.
 api_key = 'AIzaSyAQ5aElKgEv8I0Bz1cVG7lVvmMhalRr-Vg'
-
 # 시작점과 도착점의 좌표를 입력하세요.
 # start = (37.7749, -122.4194)  # 예시 좌표 (샌프란시스코)
 # end = (34.0522, -118.2437)  # 예시 좌표 (로스앤젤레스)
